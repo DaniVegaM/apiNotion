@@ -1,0 +1,29 @@
+{
+  "name": "apinotion",
+  "version": "1.0.0",
+  "description": "I need this for the next Hackaton MiniExtreeme",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaniVegaM/apiNotion.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "Notion",
+    "API"
+  ],
+  "author": "DaniVegaM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaniVegaM/apiNotion/issues"
+  },
+  "homepage": "https://github.com/DaniVegaM/apiNotion#readme",
+  "dependencies": {
+    "@notionhq/client": "^2.2.15",
+    "dotenv": "^16.4.5"
+  }
+}

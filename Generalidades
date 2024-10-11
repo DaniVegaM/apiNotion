@@ -1,0 +1,10 @@
+
+
+
+1. Crear una nueva integración
+    Necesitaremos la Secret Key para hacer la config con Node
+    En capabilities seleccionamos los permisos (Habilidades) que tendrá nuestra integración
+2. Añadir conexión de pagina con integracion
+    Cuando creamos una nueva pagina con Notion, si damos click en los 3 puntitos de arriba,
+    tenemos la opción de añadir conexión y seleccionar alguna de nuestras integraciones que hemos creado
+    
